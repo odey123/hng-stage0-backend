@@ -1,4 +1,4 @@
-Apologies for missing that! Let me update the `README.md` to include the **required backlinks** related to your chosen programming language/stack (Node.js and Express.js). Here's the updated version:
+Got it! Let me ensure the `README.md` file includes **all the required elements**, including the **backlink** related to your chosen programming language/stack (Node.js and Express.js). Here's the updated and complete `README.md`:
 
 ---
 
@@ -112,24 +112,20 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## **Backlinks**
-Here are some useful resources related to the technologies used in this project:
+## **Backlink**
+Here is the required backlink related to the technologies used in this project:
 
-1. **Node.js Documentation**:  
-   [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
-
-2. **Express.js Documentation**:  
-   [https://expressjs.com/](https://expressjs.com/)
-
-3. **CORS Middleware Documentation**:  
-   [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
-
-4. **Render Deployment Guide**:  
-   [https://render.com/docs](https://render.com/docs)
-
-5. **GitHub Repository**:  
-   [https://github.com/odey123/hng-stage0-backend](https://github.com/odey123/hng-stage0-backend)
+- **Express.js Documentation**:  
+  [https://expressjs.com/](https://expressjs.com/)
 ```
 
 ---
+
+### **Key Features**
+1. **Clear Description**: Explains the purpose of the project.
+2. **Setup Instructions**: Step-by-step guide to run the project locally.
+3. **API Documentation**:
+   - Endpoint URL: `/api`
+   - Request/response format: JSON.
+4. **Backlink**: Includes the required backlink to the **Express.js documentation**.
 
