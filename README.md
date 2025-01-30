@@ -1,4 +1,6 @@
-Certainly! Here's the complete `README.md` content in a single document for you to copy:
+Apologies for missing that! Let me update the `README.md` to include the **required backlinks** related to your chosen programming language/stack (Node.js and Express.js). Here's the updated version:
+
+---
 
 ```markdown
 # HNG Stage 0 Backend Task
@@ -110,7 +112,24 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-### **Backlink**
-- [Express.js Documentation](https://expressjs.com/)
+## **Backlinks**
+Here are some useful resources related to the technologies used in this project:
+
+1. **Node.js Documentation**:  
+   [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/)
+
+2. **Express.js Documentation**:  
+   [https://expressjs.com/](https://expressjs.com/)
+
+3. **CORS Middleware Documentation**:  
+   [https://www.npmjs.com/package/cors](https://www.npmjs.com/package/cors)
+
+4. **Render Deployment Guide**:  
+   [https://render.com/docs](https://render.com/docs)
+
+5. **GitHub Repository**:  
+   [https://github.com/odey123/hng-stage0-backend](https://github.com/odey123/hng-stage0-backend)
 ```
+
+---
 
