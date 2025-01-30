@@ -6,7 +6,7 @@ app.use(cors())
 
 app.get('/api', (req, res) => {
     const email = 'ohotujude@gmail.com'
-    const githubUrl = 'https://github.com/odey123/hng-stage0-backend.git'
+    const githubUrl = 'https://github.com/odey123/hng-stage0-backend'
 
 
     const currentDatetime = new Date().toISOString()
