@@ -7,6 +7,11 @@ Got it! Let me ensure the `README.md` file includes **all the required elements*
 
 This is a simple public API built with **Node.js** and **Express.js** for the HNG Stage 0 task. The API returns basic information in JSON format, including the registered email address, current datetime, and GitHub repository URL.
 
+--- 
+
+## Hire Node.js Developers
+If you're looking to hire skilled Node.js developers, check out [HNG's Node.js developers](https://hng.tech/hire/nodejs-developers).
+
 ---
 
 ## **Project Description**
